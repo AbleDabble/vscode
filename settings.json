@@ -1,0 +1,14 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "editor.tabSize": 4,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "svelte.enable-ts-plugin": true,
+    "cSpell.diagnosticLevel": "Hint",
+    "python.analysis.autoImportCompletions": false,
+    "vim.handleKeys": {
+        "<C-k>": false 
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\doc\\anaconda3\\envs\\py10\\python.exe",
+    "vim.useSystemClipboard": true 
+}
